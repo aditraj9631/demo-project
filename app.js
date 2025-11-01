@@ -1,1 +1,1 @@
-// This is the new feature - Button
+// This is the new feature - Button.
